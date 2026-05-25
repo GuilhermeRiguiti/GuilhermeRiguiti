@@ -21,21 +21,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 ### Tools & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
+![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure)
 
 ---
 
