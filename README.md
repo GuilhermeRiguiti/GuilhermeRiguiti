@@ -35,12 +35,33 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
+![BullMQ](https://img.shields.io/badge/-BullMQ-000?style=for-the-badge&logo=bull)
 
 ### Tools & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure)
+
+---
+
+## 🏗 Architecture & Integrations
+
+### Scalable Systems
+- Clean Architecture & Domain-Driven Design (DDD)
+- Microservices & event-driven patterns
+- Async job processing with BullMQ & Redis queues
+- Caching strategies with Redis
+- RESTful API design with scalability in mind
+- Modular and maintainable codebases built for growth
+
+### Systems Integration
+- REST API design and consumption
+- Webhook implementation (publishing & receiving)
+- Payment gateway integrations (e.g. Stripe, PagSeguro, Mercado Pago)
+- Third-party API integrations and external service orchestration
+- Building platforms that expose APIs for external systems to consume and evolve upon
 
 ---
 
