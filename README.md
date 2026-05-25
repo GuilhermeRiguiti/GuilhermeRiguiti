@@ -28,6 +28,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 
 ### Backend & Database
@@ -37,6 +38,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-000?style=for-the-badge&logo=bull)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel)
+![WordPress](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=wordpress)
 
 ### Tools & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
