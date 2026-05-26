@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Guilherme Riguitti</h1>
 
 <p align="center">
-  Software Engineer • Full Stack Developer • Tech Enthusiast
+  Software Engineer • Full Stack Developer
 </p>
 
 ---
