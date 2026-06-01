@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer passionate about building scalable applications
-- 🌱 Always learning new technologies and improving my craft
-- ⚡ Focused on clean architecture, performance, and user experience
-- 🧠 Interested in backend systems, cloud infrastructure, and modern web development
-- 🤖 Leverage AI-augmented development workflows to optimize delivery speed and maintain high code quality
+💻 Software Engineer passionate about building scalable applications
+🌱 Always learning new technologies and improving my craft
+⚡ Focused on clean architecture, performance, and user experience
+🧠 Interested in backend systems, cloud infrastructure, and modern web development
+🤖 Leverage AI-augmented development workflows to optimize delivery speed and maintain high code quality
 
 ---
 
@@ -68,14 +68,6 @@
 - Payment gateway integrations (e.g. Stripe, PagSeguro, Mercado Pago)
 - Third-party API integrations and external service orchestration
 - Building platforms that expose APIs for external systems to consume and evolve upon
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeRiguitti&theme=tokyonight&hide_border=true"/>
-</p> 
 
 ---
 
